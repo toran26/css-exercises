@@ -1,1 +1,12 @@
 /* Add CSS Styling */
+.first{
+    background-color: hsl(0,0%,0%);
+    color: hsl(0,100%,100%);
+}
+.second{
+    background-color: hsl(50,100%,70%);
+}
+.second,.first{
+    font-size: 28px;
+    font-family: helvetica,"Times New Roman", sans-serif;
+}
